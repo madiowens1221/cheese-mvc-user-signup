@@ -1,0 +1,1 @@
+//if you wanted to include an image you would create and Image folder in Static and then make an image.whatever and then th:src = @{img/image}
